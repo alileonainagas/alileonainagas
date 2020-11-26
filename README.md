@@ -1,6 +1,6 @@
 #
 
-![MYBANNER](ALABANNER.PNG)
+![MYBANNER](ALABANNER.png)
 
 </br>
 
