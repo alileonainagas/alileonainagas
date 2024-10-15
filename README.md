@@ -16,8 +16,8 @@ const createSomething = async(day) => {
         const { chill_playlist, concept_idea } = letsDoIt;
         console.log(`Hey! I've got this awesome ${concept_idea}`);
 
-    } catch (block) {
-        console.log(`Easy! it's just a ${block}.`);
+    } catch (roadblock) {
+        console.log(`Easy! it's just a ${roadblock}.`);
     }
 };
 createSomething('today');
